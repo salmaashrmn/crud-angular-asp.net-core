@@ -1,0 +1,15 @@
+{
+  "name": "crudfootball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo Starting && ng serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "salma",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  }
+}
